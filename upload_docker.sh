@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-# dockerpath=<your docker ID/path>
+dockerpath=dockme4evr/housing_model
 
 # Step 2:  
 # Authenticate & tag
