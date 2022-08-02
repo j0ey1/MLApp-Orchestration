@@ -4,7 +4,7 @@
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build -t dockme4evr/housing_model .
+docker build -t ml_insight .
 
 # Step 2: 
 # List docker images
@@ -12,4 +12,4 @@ docker image list
 
 # Step 3: 
 # Run flask app
-docker run -p 8080:80 dockme4evr/housing_model
+docker run -p 8080:80 ml_insight
