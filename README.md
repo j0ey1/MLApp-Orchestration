@@ -1,4 +1,4 @@
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/j0ey1/MLApp-Orchestration/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/j0ey1/MLApp-Orchestration/tree/main)
 
 # Project Overview
 
